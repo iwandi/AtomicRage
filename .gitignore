@@ -1,0 +1,8 @@
+*.suo
+*.VC.db
+*.vcxproj
+*.vcxproj.filters
+.vs
+/Debug
+/packages
+/x64
